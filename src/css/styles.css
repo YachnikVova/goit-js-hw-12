@@ -9,3 +9,9 @@
 @import url('./base.css');
 @import url('./gallery.css');
 
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
